@@ -46,3 +46,9 @@ Images and assets are included in the repo, so keep everything in the same direc
 📄 License
 
 This project is open for learning and reuse (no license file included).
+
+## 🧪 Testing
+
+Detailed test cases are documented in the `testing/test-cases.md` file.
+
+Testing documentation available separately as part of project submission.
