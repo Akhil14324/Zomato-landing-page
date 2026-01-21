@@ -30,3 +30,19 @@ open index.html
 
 
 Or double-click the file in your file explorer.
+
+No server required. Just HTML + CSS.
+
+🛠️ Built With
+
+HTML5
+
+CSS3
+
+📌 Notes
+
+Images and assets are included in the repo, so keep everything in the same directory structure as is to avoid broken links.
+
+📄 License
+
+This project is open for learning and reuse (no license file included).
